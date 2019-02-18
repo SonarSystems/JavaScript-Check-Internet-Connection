@@ -1,0 +1,1 @@
+# JavaScript Check Internet Connection
